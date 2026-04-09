@@ -1,6 +1,3 @@
-Here is the complete **README.md** code formatted in a raw block so you can copy and paste it directly into your file.
-
-
 # 🛡️ GuardianVault: Secure File Management System
 
 **GuardianVault** is a high-security file management dashboard that implements industrial-grade encryption to protect sensitive data. Built with Python and Streamlit, it provides a seamless interface for secure file storage, role-based access, and transparent auditing.
