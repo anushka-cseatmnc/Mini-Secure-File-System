@@ -1,4 +1,4 @@
-# 🛡️ GuardianVault: Secure File Management System
+# 🛡️ GuardianVault -  Secure File Management System
 
 **GuardianVault** is a high-security file management dashboard that implements industrial-grade encryption to protect sensitive data. Built with Python and Streamlit, it provides a seamless interface for secure file storage, role-based access, and transparent auditing.
 
