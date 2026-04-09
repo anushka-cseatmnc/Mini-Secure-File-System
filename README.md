@@ -4,6 +4,9 @@
 
 ### 🌐 [**View Live Demo**](https://mini-secure-file-system-evmko9cwkbwwpf9ru3cnhq.streamlit.app/)
 
+```Default username - admin
+Default Password - admin123```
+
 ---
 
 ## 🚀 Key Features
@@ -62,9 +65,3 @@ Passwords undergo a **SHA-256 one-way hash** before storage. This ensures that e
 
 -----
 
-## 👤 Author
-
-**Anushka**
-
-  * CS Student | Security Enthusiast
-  * [GitHub Profile](https://www.google.com/search?q=https://github.com/anushka-cseatmnc)
